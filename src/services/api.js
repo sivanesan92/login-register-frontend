@@ -3,7 +3,7 @@ import { getstorage} from './storage'
 
 axios.defaults.baseURL="https://identitytoolkit.googleapis.com/v1"
 
-const APIKEY="AIzaSyBfIjJkOF8MR7YeymlESxVwDOExZi9U4Z0";
+const APIKEY="firebase api key";
 
 //const REGISTERURL=`/accounts:signUp?key=${APIKEY}`;
 
